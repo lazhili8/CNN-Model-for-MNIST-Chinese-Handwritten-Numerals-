@@ -1,0 +1,303 @@
+/home/alexander-yang/anaconda3/envs/pytorch/bin/python /home/alexander-yang/PycharmProjects/CNN-Pytorch/CNN_train.py
+Train Epoch: 1 	 Loss:5.780026
+Test__Average loss: 0.027868,accuracy: 48.000
+
+Train Epoch: 2 	 Loss:1.839359
+Test__Average loss: 0.021836,accuracy: 59.000
+
+Train Epoch: 3 	 Loss:1.256136
+Test__Average loss: 0.018902,accuracy: 66.333
+
+Train Epoch: 4 	 Loss:1.175991
+Test__Average loss: 0.016289,accuracy: 72.133
+
+Train Epoch: 5 	 Loss:0.987630
+Test__Average loss: 0.014578,accuracy: 74.133
+
+Train Epoch: 6 	 Loss:0.730374
+Test__Average loss: 0.013111,accuracy: 77.333
+
+Train Epoch: 7 	 Loss:0.868630
+Test__Average loss: 0.012047,accuracy: 79.000
+
+Train Epoch: 8 	 Loss:0.584089
+Test__Average loss: 0.010960,accuracy: 80.667
+
+Train Epoch: 9 	 Loss:0.623710
+Test__Average loss: 0.010350,accuracy: 82.200
+
+Train Epoch: 10 	 Loss:0.513423
+Test__Average loss: 0.009593,accuracy: 83.467
+
+Train Epoch: 11 	 Loss:0.475508
+Test__Average loss: 0.009018,accuracy: 84.133
+
+Train Epoch: 12 	 Loss:0.418687
+Test__Average loss: 0.008639,accuracy: 84.667
+
+Train Epoch: 13 	 Loss:0.536595
+Test__Average loss: 0.008115,accuracy: 86.000
+
+Train Epoch: 14 	 Loss:0.542715
+Test__Average loss: 0.007830,accuracy: 86.800
+
+Train Epoch: 15 	 Loss:0.286863
+Test__Average loss: 0.007424,accuracy: 86.667
+
+Train Epoch: 16 	 Loss:0.357768
+Test__Average loss: 0.007311,accuracy: 87.533
+
+Train Epoch: 17 	 Loss:0.371553
+Test__Average loss: 0.006799,accuracy: 87.867
+
+Train Epoch: 18 	 Loss:0.350018
+Test__Average loss: 0.006581,accuracy: 88.800
+
+Train Epoch: 19 	 Loss:0.129028
+Test__Average loss: 0.006420,accuracy: 89.067
+
+Train Epoch: 20 	 Loss:0.376800
+Test__Average loss: 0.006256,accuracy: 88.733
+
+Train Epoch: 21 	 Loss:0.311403
+Test__Average loss: 0.006040,accuracy: 89.000
+
+Train Epoch: 22 	 Loss:0.359417
+Test__Average loss: 0.005955,accuracy: 89.533
+
+Train Epoch: 23 	 Loss:0.248346
+Test__Average loss: 0.005844,accuracy: 89.733
+
+Train Epoch: 24 	 Loss:0.231606
+Test__Average loss: 0.005543,accuracy: 90.000
+
+Train Epoch: 25 	 Loss:0.198890
+Test__Average loss: 0.005615,accuracy: 89.533
+
+Train Epoch: 26 	 Loss:0.199216
+Test__Average loss: 0.005331,accuracy: 90.733
+
+Train Epoch: 27 	 Loss:0.166633
+Test__Average loss: 0.005261,accuracy: 90.267
+
+Train Epoch: 28 	 Loss:0.189700
+Test__Average loss: 0.005196,accuracy: 90.600
+
+Train Epoch: 29 	 Loss:0.132993
+Test__Average loss: 0.004978,accuracy: 91.000
+
+Train Epoch: 30 	 Loss:0.252786
+Test__Average loss: 0.005000,accuracy: 90.933
+
+Train Epoch: 31 	 Loss:0.198724
+Test__Average loss: 0.004940,accuracy: 91.333
+
+Train Epoch: 32 	 Loss:0.139535
+Test__Average loss: 0.005005,accuracy: 91.533
+
+Train Epoch: 33 	 Loss:0.214319
+Test__Average loss: 0.004732,accuracy: 91.000
+
+Train Epoch: 34 	 Loss:0.115282
+Test__Average loss: 0.004521,accuracy: 91.800
+
+Train Epoch: 35 	 Loss:0.239958
+Test__Average loss: 0.004572,accuracy: 91.600
+
+Train Epoch: 36 	 Loss:0.173278
+Test__Average loss: 0.004516,accuracy: 91.267
+
+Train Epoch: 37 	 Loss:0.109292
+Test__Average loss: 0.004567,accuracy: 91.667
+
+Train Epoch: 38 	 Loss:0.058701
+Test__Average loss: 0.004406,accuracy: 91.800
+
+Train Epoch: 39 	 Loss:0.136726
+Test__Average loss: 0.004422,accuracy: 91.933
+
+Train Epoch: 40 	 Loss:0.122183
+Test__Average loss: 0.004351,accuracy: 92.333
+
+Train Epoch: 41 	 Loss:0.115766
+Test__Average loss: 0.004305,accuracy: 91.933
+
+Train Epoch: 42 	 Loss:0.144738
+Test__Average loss: 0.004319,accuracy: 92.133
+
+Train Epoch: 43 	 Loss:0.109714
+Test__Average loss: 0.004191,accuracy: 92.133
+
+Train Epoch: 44 	 Loss:0.144964
+Test__Average loss: 0.004192,accuracy: 92.000
+
+Train Epoch: 45 	 Loss:0.157840
+Test__Average loss: 0.004059,accuracy: 92.600
+
+Train Epoch: 46 	 Loss:0.132928
+Test__Average loss: 0.004029,accuracy: 92.600
+
+Train Epoch: 47 	 Loss:0.156547
+Test__Average loss: 0.004053,accuracy: 92.467
+
+Train Epoch: 48 	 Loss:0.152949
+Test__Average loss: 0.004053,accuracy: 92.600
+
+Train Epoch: 49 	 Loss:0.095944
+Test__Average loss: 0.004055,accuracy: 92.267
+
+Train Epoch: 50 	 Loss:0.080079
+Test__Average loss: 0.003884,accuracy: 92.333
+
+Train Epoch: 51 	 Loss:0.116471
+Test__Average loss: 0.003870,accuracy: 92.533
+
+Train Epoch: 52 	 Loss:0.105006
+Test__Average loss: 0.003892,accuracy: 92.733
+
+Train Epoch: 53 	 Loss:0.073670
+Test__Average loss: 0.003881,accuracy: 92.600
+
+Train Epoch: 54 	 Loss:0.061221
+Test__Average loss: 0.003894,accuracy: 92.800
+
+Train Epoch: 55 	 Loss:0.105880
+Test__Average loss: 0.003839,accuracy: 93.000
+
+Train Epoch: 56 	 Loss:0.026980
+Test__Average loss: 0.003808,accuracy: 92.867
+
+Train Epoch: 57 	 Loss:0.098934
+Test__Average loss: 0.003872,accuracy: 92.867
+
+Train Epoch: 58 	 Loss:0.096412
+Test__Average loss: 0.003676,accuracy: 92.867
+
+Train Epoch: 59 	 Loss:0.119286
+Test__Average loss: 0.003746,accuracy: 92.667
+
+Train Epoch: 60 	 Loss:0.064776
+Test__Average loss: 0.003623,accuracy: 93.067
+
+Train Epoch: 61 	 Loss:0.063251
+Test__Average loss: 0.003646,accuracy: 92.733
+
+Train Epoch: 62 	 Loss:0.040008
+Test__Average loss: 0.003619,accuracy: 92.867
+
+Train Epoch: 63 	 Loss:0.058942
+Test__Average loss: 0.003576,accuracy: 93.133
+
+Train Epoch: 64 	 Loss:0.109784
+Test__Average loss: 0.003711,accuracy: 92.867
+
+Train Epoch: 65 	 Loss:0.090597
+Test__Average loss: 0.003931,accuracy: 92.733
+
+Train Epoch: 66 	 Loss:0.036975
+Test__Average loss: 0.003652,accuracy: 93.133
+
+Train Epoch: 67 	 Loss:0.059231
+Test__Average loss: 0.003532,accuracy: 93.333
+
+Train Epoch: 68 	 Loss:0.063891
+Test__Average loss: 0.003453,accuracy: 93.200
+
+Train Epoch: 69 	 Loss:0.051770
+Test__Average loss: 0.003567,accuracy: 93.067
+
+Train Epoch: 70 	 Loss:0.071586
+Test__Average loss: 0.003484,accuracy: 93.200
+
+Train Epoch: 71 	 Loss:0.040365
+Test__Average loss: 0.003474,accuracy: 93.067
+
+Train Epoch: 72 	 Loss:0.108897
+Test__Average loss: 0.003484,accuracy: 93.267
+
+Train Epoch: 73 	 Loss:0.028944
+Test__Average loss: 0.003500,accuracy: 93.333
+
+Train Epoch: 74 	 Loss:0.135176
+Test__Average loss: 0.003523,accuracy: 93.400
+
+Train Epoch: 75 	 Loss:0.078048
+Test__Average loss: 0.003467,accuracy: 93.333
+
+Train Epoch: 76 	 Loss:0.062081
+Test__Average loss: 0.003437,accuracy: 93.067
+
+Train Epoch: 77 	 Loss:0.034822
+Test__Average loss: 0.003434,accuracy: 93.600
+
+Train Epoch: 78 	 Loss:0.075233
+Test__Average loss: 0.003455,accuracy: 93.133
+
+Train Epoch: 79 	 Loss:0.053288
+Test__Average loss: 0.003437,accuracy: 93.267
+
+Train Epoch: 80 	 Loss:0.048401
+Test__Average loss: 0.003362,accuracy: 93.333
+
+Train Epoch: 81 	 Loss:0.049426
+Test__Average loss: 0.003403,accuracy: 93.467
+
+Train Epoch: 82 	 Loss:0.059258
+Test__Average loss: 0.003338,accuracy: 93.733
+
+Train Epoch: 83 	 Loss:0.044701
+Test__Average loss: 0.003416,accuracy: 93.400
+
+Train Epoch: 84 	 Loss:0.036044
+Test__Average loss: 0.003297,accuracy: 93.400
+
+Train Epoch: 85 	 Loss:0.080859
+Test__Average loss: 0.003286,accuracy: 93.533
+
+Train Epoch: 86 	 Loss:0.030007
+Test__Average loss: 0.003349,accuracy: 93.133
+
+Train Epoch: 87 	 Loss:0.025846
+Test__Average loss: 0.003360,accuracy: 93.000
+
+Train Epoch: 88 	 Loss:0.055898
+Test__Average loss: 0.003323,accuracy: 94.000
+
+Train Epoch: 89 	 Loss:0.059612
+Test__Average loss: 0.003300,accuracy: 93.467
+
+Train Epoch: 90 	 Loss:0.066668
+Test__Average loss: 0.003252,accuracy: 93.533
+
+Train Epoch: 91 	 Loss:0.057753
+Test__Average loss: 0.003305,accuracy: 93.533
+
+Train Epoch: 92 	 Loss:0.048861
+Test__Average loss: 0.003379,accuracy: 93.533
+
+Train Epoch: 93 	 Loss:0.028198
+Test__Average loss: 0.003264,accuracy: 93.533
+
+Train Epoch: 94 	 Loss:0.092537
+Test__Average loss: 0.003281,accuracy: 93.867
+
+Train Epoch: 95 	 Loss:0.026423
+Test__Average loss: 0.003331,accuracy: 93.733
+
+Train Epoch: 96 	 Loss:0.051235
+Test__Average loss: 0.003347,accuracy: 93.333
+
+Train Epoch: 97 	 Loss:0.038972
+Test__Average loss: 0.003272,accuracy: 93.600
+
+Train Epoch: 98 	 Loss:0.044850
+Test__Average loss: 0.003214,accuracy: 94.000
+
+Train Epoch: 99 	 Loss:0.059656
+Test__Average loss: 0.003282,accuracy: 94.133
+
+Train Epoch: 100 	 Loss:0.018938
+Test__Average loss: 0.003269,accuracy: 94.333
+
+
+Process finished with exit code 0
